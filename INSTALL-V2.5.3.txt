@@ -1,0 +1,19 @@
+KATTERUMS JAKTLAG v2.5.3 - KOMPLETT PAKET
+
+Detta ar ett komplett paket, inte en patch.
+
+Installation i ett nytt GitHub-repo:
+1. Ladda upp samtliga filer fran ZIP-paketet till repots rot.
+2. GitHub Pages: Deploy from a branch, main, /(root).
+3. Oppna den publicerade sidan och kontrollera att v2.5.3 visas.
+4. Logga in som Erik.
+5. Skapa en testobservation och kontrollera att den finns i Supabase.
+6. Oppna samma GitHub Pages-adress pa den andra enheten och kontrollera observationen.
+
+Innehall:
+- Komplett appkod och stilmall.
+- Supabase-klient och konfiguration.
+- Masterdata och SQL-installation.
+- Webbmanifest och service worker.
+- Fungerande observationssynk fran v2.5.2.
+- Slutlig versionslasning till v2.5.3 efter alla aldre kompatibilitetsblock.

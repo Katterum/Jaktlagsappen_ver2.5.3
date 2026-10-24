@@ -1,0 +1,11 @@
+{
+  "name": "Katterums jaktlag",
+  "short_name": "Katterum",
+  "description": "Jaktlagsappen for Katterums jaktlag",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07130f",
+  "theme_color": "#07130f",
+  "lang": "sv"
+}
